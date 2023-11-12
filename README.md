@@ -7,7 +7,7 @@ Download Node.js  before getting started [download Node.js](https://nodejs.org/e
 
 # Getting Started
 require the module before starting 
-    ``` javascript
+``` javascript
     const movieSearch = require('path_of_Module')
 
 
