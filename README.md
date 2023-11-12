@@ -5,10 +5,18 @@ The Movie System Node Module Provides users with the ability to retrieve movie i
 # Installation
 Download Node.js  before getting started [download Node.js](https://nodejs.org/en/download/). This node module was done with Node.js v16.17.0.
 
+
 # Getting Started
-require Nouran_MovieSystem before starting 
-    ```javascript
-    const movieSearch = require('path_of_Module')
+
+Before starting, ensure that you have the 'Nouran_MovieSystem' module installed:
+```bash
+npm install Nouran_MovieSystem
+```
+Once the module is installed, you can use it in your JavaScript code as shown below:
+```javascript 
+const movieSearch = require('path_of_Module');
+```
+
 
 
 
