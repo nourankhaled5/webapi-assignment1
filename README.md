@@ -197,7 +197,7 @@ The function **findMoviesWithAvailableSeatsAtTiming** retrieves titles of movies
 
 1. **Call the Function:**
 
-- Call `bookSeats` function and provide timing argument
+- Call `findMoviesWithAvailableSeatsAtTiming` function and provide timing argument
     ```javascript
     const timingToSearch = 'time';  //Replace 'time' with any desired timing
     const result = movieSearch.findMoviesWithAvailableSeatsAtTiming(timingToSearch);
