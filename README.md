@@ -1,5 +1,8 @@
 # Nouran_MovieSystem Module
 
+Name: Nouran
+Admin Number: 211286H
+
 The Movie System Node Module Provides users with the ability to retrieve movie information and book seats for movies
 
 # Installation
